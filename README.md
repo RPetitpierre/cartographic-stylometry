@@ -12,7 +12,7 @@ This Github repository contains supporting material to the following article:
     }
 
 ### License
-All material on this repository is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/). 
+All material on this repository is licensed under [CC-BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/), except for the corpus metadata which belong to their respective conservation institutions.
 
 You are free to:
 * Share — copy and redistribute the material in any medium or format
